@@ -1,0 +1,1 @@
+"swigwin-3.0.12\swig.exe" -python -py3 algorithm.i
